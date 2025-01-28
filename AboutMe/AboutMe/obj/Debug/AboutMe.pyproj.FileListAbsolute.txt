@@ -1,0 +1,12 @@
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\bin\Debug\AboutMe.exe.config
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\bin\Debug\AboutMe.exe
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\bin\Debug\AboutMe.dll
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\bin\Debug\IronPython.dll
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\bin\Debug\IronPython.Modules.dll
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\bin\Debug\Microsoft.Scripting.dll
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\obj\Debug\AboutMe.pyprojResolveAssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\obj\Debug\AboutMe.MainForm.resources
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\obj\Debug\AboutMe.pyproj.GenerateResource.Cache
+C:\Users\campbell.c\Desktop\Programming-II\AboutMe\AboutMe\obj\Debug\AboutMe.exe
