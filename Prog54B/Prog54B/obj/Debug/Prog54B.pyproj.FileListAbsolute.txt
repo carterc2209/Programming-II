@@ -1,0 +1,12 @@
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\bin\Debug\Prog54B.exe.config
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\bin\Debug\Prog54B.exe
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\bin\Debug\Prog54B.dll
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\bin\Debug\IronPython.dll
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\bin\Debug\IronPython.Modules.dll
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\bin\Debug\Microsoft.Scripting.dll
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\obj\Debug\Prog54B.pyprojResolveAssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\obj\Debug\Prog54B.MainForm.resources
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\obj\Debug\Prog54B.pyproj.GenerateResource.Cache
+C:\Users\campbell.c\Desktop\Programming-II\Prog54B\Prog54B\obj\Debug\Prog54B.exe
