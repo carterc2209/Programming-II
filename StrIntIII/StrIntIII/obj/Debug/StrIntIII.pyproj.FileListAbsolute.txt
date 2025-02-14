@@ -1,0 +1,12 @@
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\bin\Debug\StrIntIII.exe.config
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\bin\Debug\StrIntIII.exe
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\bin\Debug\StrIntIII.dll
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\bin\Debug\IronPython.dll
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\bin\Debug\IronPython.Modules.dll
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\bin\Debug\Microsoft.Scripting.dll
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\obj\Debug\StrIntIII.pyprojResolveAssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\obj\Debug\StrIntIII.MainForm.resources
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\obj\Debug\StrIntIII.pyproj.GenerateResource.Cache
+C:\Users\campbell.c\Desktop\Programming-II\StrIntIII\StrIntIII\obj\Debug\StrIntIII.exe

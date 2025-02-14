@@ -1,0 +1,12 @@
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\bin\Debug\StrIntIV.exe.config
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\bin\Debug\StrIntIV.exe
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\bin\Debug\StrIntIV.dll
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\bin\Debug\IronPython.dll
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\bin\Debug\IronPython.Modules.dll
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\bin\Debug\Microsoft.Scripting.dll
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\obj\Debug\StrIntIV.pyprojResolveAssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\obj\Debug\StrIntIV.MainForm.resources
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\obj\Debug\StrIntIV.pyproj.GenerateResource.Cache
+C:\Users\campbell.c\Desktop\Programming-1\StrIntIV\StrIntIV\obj\Debug\StrIntIV.exe
