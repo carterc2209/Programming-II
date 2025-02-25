@@ -48,7 +48,7 @@ class MainForm(Form):
         # 
         self._button2.BackColor = System.Drawing.Color.Transparent
         self._button2.Font = System.Drawing.Font("Microsoft Sans Serif", 20.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._button2.Location = System.Drawing.Point(248, 106)
+        self._button2.Location = System.Drawing.Point(117, 19)
         self._button2.Name = "button2"
         self._button2.Size = System.Drawing.Size(10, 10)
         self._button2.TabIndex = 2
@@ -84,7 +84,7 @@ class MainForm(Form):
         # MainForm
         # 
         self.BackColor = System.Drawing.Color.FromArgb(64, 64, 64)
-        self.ClientSize = System.Drawing.Size(425, 434)
+        self.ClientSize = System.Drawing.Size(425, 177)
         self.Controls.Add(self._comboBox3)
         self.Controls.Add(self._comboBox2)
         self.Controls.Add(self._button2)
