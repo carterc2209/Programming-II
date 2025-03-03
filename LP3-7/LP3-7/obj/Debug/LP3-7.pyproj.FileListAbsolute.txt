@@ -1,0 +1,12 @@
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\bin\Debug\LP3-7.exe.config
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\bin\Debug\LP3-7.exe
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\bin\Debug\LP3-7.dll
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\bin\Debug\IronPython.dll
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\bin\Debug\IronPython.Modules.dll
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\obj\Debug\LP3-7.pyprojResolveAssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\obj\Debug\LP3_7.MainForm.resources
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\obj\Debug\LP3-7.pyproj.GenerateResource.Cache
+C:\Users\campbell.c\Desktop\Programming-II\LP3-7\LP3-7\obj\Debug\LP3-7.exe
