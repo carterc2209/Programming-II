@@ -29,6 +29,7 @@ class MainForm(Form):
         self._textBox8 = System.Windows.Forms.TextBox()
         self._label8 = System.Windows.Forms.Label()
         self._label10 = System.Windows.Forms.Label()
+        self._button4 = System.Windows.Forms.Button()
         self.SuspendLayout()
         # 
         # button1
@@ -47,9 +48,9 @@ class MainForm(Form):
         # 
         self._button2.BackColor = System.Drawing.Color.FromArgb(255, 128, 128)
         self._button2.Font = System.Drawing.Font("Microsoft Sans Serif", 21.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._button2.Location = System.Drawing.Point(295, 357)
+        self._button2.Location = System.Drawing.Point(393, 357)
         self._button2.Name = "button2"
-        self._button2.Size = System.Drawing.Size(202, 109)
+        self._button2.Size = System.Drawing.Size(132, 109)
         self._button2.TabIndex = 1
         self._button2.Text = "Clear"
         self._button2.UseVisualStyleBackColor = False
@@ -64,6 +65,7 @@ class MainForm(Form):
         self._button3.TabIndex = 2
         self._button3.Text = "Exit"
         self._button3.UseVisualStyleBackColor = False
+        self._button3.Click += self.Button3Click
         # 
         # label1
         # 
@@ -220,10 +222,23 @@ class MainForm(Form):
         self._label10.TabIndex = 22
         self._label10.Text = "Total Cost: "
         # 
+        # button4
+        # 
+        self._button4.BackColor = System.Drawing.Color.FromArgb(255, 128, 128)
+        self._button4.Font = System.Drawing.Font("Microsoft Sans Serif", 21.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+        self._button4.Location = System.Drawing.Point(233, 357)
+        self._button4.Name = "button4"
+        self._button4.Size = System.Drawing.Size(132, 109)
+        self._button4.TabIndex = 23
+        self._button4.Text = "Clear"
+        self._button4.UseVisualStyleBackColor = False
+        self._button4.Click += self.Button4Click
+        # 
         # MainForm
         # 
         self.BackColor = System.Drawing.Color.FromArgb(128, 128, 255)
         self.ClientSize = System.Drawing.Size(789, 478)
+        self.Controls.Add(self._button4)
         self.Controls.Add(self._label10)
         self.Controls.Add(self._textBox8)
         self.Controls.Add(self._label8)
@@ -252,8 +267,16 @@ class MainForm(Form):
 
 
     def Button1Click(self, sender, e):
+        
         from Form1 import *
-        form1 = Form1(self)
+        form1 = Form1(self, opt1, opt2, opt3)
+        price = 0
+        if opt1:
+            price += 830
+        elif opt2:
+            price += 30
+        
+        self._label10.Text = str(price)
         form1.Show()
         self.Hide()
         
@@ -263,3 +286,15 @@ class MainForm(Form):
 
     def TextBox3TextChanged(self, sender, e):
         pass
+
+    def Button3Click(self, sender, e):
+        Application.Exit()
+
+    def Button4Click(self, sender, e):
+        price = 0
+        if opt1:
+            price += 830
+        elif opt2:
+            price += 30
+        
+        self._label10.Text = str(price)

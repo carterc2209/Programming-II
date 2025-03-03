@@ -6,8 +6,11 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class Form1(Form):
-    def __init__(self, parent):
+    def __init__(self, parent, opt1, opt2, opt3):
         self.myparent = parent
+        self.opt1 = opt1
+        self.opt2 = opt2
+        self.opt3 = opt3
         self.InitializeComponent()
     
     def InitializeComponent(self):
@@ -95,11 +98,12 @@ class Form1(Form):
 
     def Button2Click(self, sender, e):
         self.myparent.Show()
-        self.Close
-        
+        self.Close()
 
     def Form1Load(self, sender, e):
-        pass
+        self._radioButton2 = opt2
+        self._radioButton1 = opt1
+        self._comboBox.Text = opt3
 
     def Form1FormClosed(self, sender, e):
         pass
