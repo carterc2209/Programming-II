@@ -3,6 +3,7 @@ import System.Windows.Forms
 
 from System.Drawing import *
 from System.Windows.Forms import *
+from Form1 import *
 
 class MainForm(Form):
     def __init__(self):
@@ -230,7 +231,7 @@ class MainForm(Form):
         self._button4.Name = "button4"
         self._button4.Size = System.Drawing.Size(132, 109)
         self._button4.TabIndex = 23
-        self._button4.Text = "Clear"
+        self._button4.Text = "Calc"
         self._button4.UseVisualStyleBackColor = False
         self._button4.Click += self.Button4Click
         # 
@@ -267,22 +268,16 @@ class MainForm(Form):
 
 
     def Button1Click(self, sender, e):
-        
-        from Form1 import *
+        from Form1 import opt1
         form1 = Form1(self, opt1, opt2, opt3)
         price = 0
-        if opt1:
-            price += 830
-        elif opt2:
-            price += 30
-        
         self._label10.Text = str(price)
         form1.Show()
         self.Hide()
         
 
     def MainFormLoad(self, sender, e):
-        pass
+        from Form1 import *
 
     def TextBox3TextChanged(self, sender, e):
         pass
@@ -292,9 +287,10 @@ class MainForm(Form):
 
     def Button4Click(self, sender, e):
         price = 0
-        if opt1:
+        if self.opt1:
             price += 830
-        elif opt2:
+        elif self.opt2:
             price += 30
         
         self._label10.Text = str(price)
+        pass

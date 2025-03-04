@@ -101,9 +101,9 @@ class Form1(Form):
         self.Close()
 
     def Form1Load(self, sender, e):
-        self._radioButton2 = opt2
-        self._radioButton1 = opt1
-        self._comboBox.Text = opt3
+        opt1 = self._radioButton1
+        opt2 = self._radioButton2
+        opt3 = self._comboBox.Text
 
     def Form1FormClosed(self, sender, e):
         pass
