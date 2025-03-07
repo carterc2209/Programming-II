@@ -8,7 +8,7 @@ from System.Windows.Forms import *
 class Form1(Form):
     def __init__(self, parent, opt1, opt2, opt3):
         self.myparent = parent
-        self.opt1 = opt1
+        self.opt1 = self._radioButton1
         self.opt2 = opt2
         self.opt3 = opt3
         self.InitializeComponent()

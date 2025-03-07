@@ -109,6 +109,4 @@ class MainForm(Form):
         self._textBox1.Text = ""
 
     def Button1Click(self, sender, e):
-        Unique = str(self._textBox1.Text)
-        Unique = Unique[-3]
-        self._label2.Text = "First Unique Character: " + Unique
+        pass
