@@ -7,6 +7,10 @@ from Form1 import *
 
 class MainForm(Form):
     def __init__(self):
+        self.opt1 = False
+        self.opt2 = False
+        self.opt3 = False
+        self.price = 0
         self.InitializeComponent()
     
     def InitializeComponent(self):
@@ -55,6 +59,7 @@ class MainForm(Form):
         self._button2.TabIndex = 1
         self._button2.Text = "Clear"
         self._button2.UseVisualStyleBackColor = False
+        self._button2.Click += self.Button2Click
         # 
         # button3
         # 
@@ -268,16 +273,16 @@ class MainForm(Form):
 
 
     def Button1Click(self, sender, e):
-        from Form1 import opt1
-        form1 = Form1(self, opt1, opt2, opt3)
-        price = 0
-        self._label10.Text = str(price)
+        from Form1 import *
+        form1 = Form1(self)
+        self._label10.Text = str(self.price)
         form1.Show()
         self.Hide()
+        pass
         
 
     def MainFormLoad(self, sender, e):
-        from Form1 import *
+        pass
 
     def TextBox3TextChanged(self, sender, e):
         pass
@@ -286,11 +291,8 @@ class MainForm(Form):
         Application.Exit()
 
     def Button4Click(self, sender, e):
-        price = 0
-        if self.opt1:
-            price += 830
-        elif self.opt2:
-            price += 30
-        
-        self._label10.Text = str(price)
+        self._label10.Text = str(self.price)
+        pass
+
+    def Button2Click(self, sender, e):
         pass

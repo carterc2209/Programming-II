@@ -6,11 +6,11 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class Form1(Form):
-    def __init__(self, parent, opt1, opt2, opt3):
+    def __init__(self, parent):
         self.myparent = parent
-        self.opt1 = self._radioButton1
-        self.opt2 = opt2
-        self.opt3 = opt3
+        self.opt1 = False
+        self.opt2 = False
+        self.opt3 = False
         self.InitializeComponent()
     
     def InitializeComponent(self):
@@ -19,6 +19,7 @@ class Form1(Form):
         self._radioButton1 = System.Windows.Forms.RadioButton()
         self._radioButton2 = System.Windows.Forms.RadioButton()
         self._comboBox1 = System.Windows.Forms.ComboBox()
+        self._label1 = System.Windows.Forms.Label()
         self.SuspendLayout()
         # 
         # button1
@@ -78,10 +79,19 @@ class Form1(Form):
         self._comboBox1.TabIndex = 4
         self._comboBox1.Text = "Select One"
         # 
+        # label1
+        # 
+        self._label1.Location = System.Drawing.Point(43, 158)
+        self._label1.Name = "label1"
+        self._label1.Size = System.Drawing.Size(161, 40)
+        self._label1.TabIndex = 5
+        self._label1.Text = "label1"
+        # 
         # Form1
         # 
         self.BackColor = System.Drawing.Color.FromArgb(128, 128, 255)
         self.ClientSize = System.Drawing.Size(805, 207)
+        self.Controls.Add(self._label1)
         self.Controls.Add(self._comboBox1)
         self.Controls.Add(self._radioButton2)
         self.Controls.Add(self._radioButton1)
@@ -99,11 +109,25 @@ class Form1(Form):
     def Button2Click(self, sender, e):
         self.myparent.Show()
         self.Close()
-
-    def Form1Load(self, sender, e):
         opt1 = self._radioButton1
         opt2 = self._radioButton2
-        opt3 = self._comboBox.Text
+        opt3 = self._comboBox1.Text
+        if opt1:
+            self.myparent.price += 896
+        elif opt2:
+            self.myparent.price += 30
+        if opt3 == "Intro to E-Commerce":
+            self.myparent.price += 295
+        elif opt3 == "The Future of the Web":
+            self.myparent.price += 295
+        elif opt3 == "Advanced Visual Basic":
+            self.myparent.price += 395
+        elif opt3 == "Network Security":
+            self.myparent.price += 395
+        
+
+    def Form1Load(self, sender, e):
+        pass
 
     def Form1FormClosed(self, sender, e):
         pass
@@ -112,4 +136,7 @@ class Form1(Form):
         self.myparent.Show
 
     def Button1Click(self, sender, e):
-        pass
+        self.opt1 = False
+        self.opt2 = False
+        self.opt3 = False
+        self._label1.Text = str(self.myparent.price)
