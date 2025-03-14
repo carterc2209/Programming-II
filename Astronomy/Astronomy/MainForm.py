@@ -75,10 +75,47 @@ class MainForm(Form):
     def ComboBox1SelectedIndexChanged(self, sender, e):
         combo = self._comboBox1.Text
         if combo == "Mercury":
-            pass
+            from Mercury import *
+            Mercury = Mercury(self)
+            Mercury.Show()
+            self.Hide()
         elif combo == "Venus":
-            pass
+            from Venus import *
+            Venus = Venus(self)
+            Venus.Show()
+            self.Hide()
         elif combo == "Earth":
-            pass
+            from Earth import *
+            Earth = Earth(self)
+            Earth.Show()
+            self.Hide()
         elif combo == "Mars":
-            pass
+            from Mars import *
+            Mars = Mars(self)
+            Mars.Show()
+            self.Hide()
+        elif combo == "Jupiter":
+            from Jupiter import *
+            Jupiter = Jupiter(self)
+            Jupiter.Show()
+            self.Hide()
+        elif combo == "Saturn":
+            from Saturn import *
+            Saturn = Saturn(self)
+            Saturn.Show()
+            self.Hide()
+        elif combo == "Uranus":
+            from Uranus import *
+            Uranus = Uranus(self)
+            Uranus.Show()
+            self.Hide()
+        elif combo == "Neptune":
+            from Neptune import *
+            Neptune = Neptune(self)
+            Neptune.Show()
+            self.Hide()
+        elif combo == "Pluto":
+            from Pluto import *
+            Pluto = Pluto(self)
+            Pluto.Show()
+            self.Hide()

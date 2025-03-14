@@ -6,7 +6,7 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class Pluto(Form):
-    def __init__(self):
+    def __init__(self, parent):
         self.InitializeComponent()
     
     def InitializeComponent(self):
@@ -83,4 +83,5 @@ class Pluto(Form):
 
 
     def Button1Click(self, sender, e):
-        pass
+        self.myparent.Show()
+        self.Close()

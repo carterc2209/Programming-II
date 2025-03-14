@@ -6,7 +6,8 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class Jupiter(Form):
-    def __init__(self):
+    def __init__(self, parent):
+        self.myparent = parent
         self.InitializeComponent()
     
     def InitializeComponent(self):
@@ -27,6 +28,7 @@ class Jupiter(Form):
         self._button1.TabIndex = 9
         self._button1.Text = "Return"
         self._button1.UseVisualStyleBackColor = False
+        self._button1.Click += self.Button1Click
         # 
         # label4
         # 
@@ -78,3 +80,7 @@ class Jupiter(Form):
         self.Text = "Jupiter"
         self.ResumeLayout(False)
 
+
+    def Button1Click(self, sender, e):
+        self.myparent.Show()
+        self.Close()

@@ -6,7 +6,8 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class Mercury(Form):
-    def __init__(self):
+    def __init__(self, parent):
+        self.myparent = parent
         self.InitializeComponent()
     
     def InitializeComponent(self):
@@ -63,6 +64,7 @@ class Mercury(Form):
         self._button1.TabIndex = 4
         self._button1.Text = "Return"
         self._button1.UseVisualStyleBackColor = False
+        self._button1.Click += self.Button1Click
         # 
         # Mercury
         # 
@@ -78,3 +80,7 @@ class Mercury(Form):
         self.Text = "Mercury"
         self.ResumeLayout(False)
 
+
+    def Button1Click(self, sender, e):
+        self.myparent.Show()
+        self.Close()
