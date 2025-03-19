@@ -1,20 +1,25 @@
 class Quantity:
-	def __init__(self, amount, price):
+	def __init__(self, amount):
 		self.amount = amount
-		self.price = price
+		self.price = 0
 
 	def calculate(self):
 		if 0 < self.amount < 100:
-			price = 5.95
+			self.price = 5.95
 		elif 100 <= self.amount < 200:
-			price = 5.75
+			self.price = 5.75
 		elif 200 <= self.amount < 300:
-			price = 5.4
+			self.price = 5.4
 		elif self.amount >= 300:
-			price = 5.15
-		total = price * self.amount
+			self.price = 5.15
 
 
 def main():
-	amount = int(input("Enter amount of product bought"))
-	print(amount)
+	amount = int(input("Enter amount of product bought "))
+	q = Quantity(amount)
+	q.calculate()
+	print(amount * q.price)
+
+
+if __name__ == "__main__":
+	main()
