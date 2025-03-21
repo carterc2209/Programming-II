@@ -10,7 +10,9 @@ def main():
                 name = f.readline()
                 tires = f.readline()
                 if num == 1:
-                    worth = int(f.readline())
+                    name = str(f.readline())
+                    # tires = int(f.readline())
+                    worth = str(f.readline())
                     p = Cars(name, tires, worth)
                     people.append(p)
                 elif num == 2:
