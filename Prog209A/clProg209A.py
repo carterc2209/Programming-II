@@ -1,4 +1,4 @@
-class idk:
+class Counting:
     def __init__(self, less, big):
         with open("../Langdat/prog215a.dat", 'r') as f:
             self.less = int(f.readline())
