@@ -17,7 +17,7 @@ def fact(n):
 def main():
     num = 3
     sums = 3
-    while num != 6999:
+    while num != 9672:
         num_fact = fact(num)
         print(f"{num}! = {num_fact}")
         sums += num
