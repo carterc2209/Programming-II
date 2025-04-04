@@ -10,6 +10,7 @@ def print_matrix(mat):
 
 
 def transpose(mat):
+
     pass
 
 
@@ -27,7 +28,6 @@ def main():
 
     print("\nTransposed:")
     print_matrix(mat1)
-    transpose
 
 
 if __name__ == "__main__":
