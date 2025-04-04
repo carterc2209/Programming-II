@@ -6,3 +6,4 @@ class Counting:
 
     def calc(self, less, big):
         amount = self.small + self.big
+        print(amount)

@@ -1,5 +1,4 @@
 from random import randint
-import numpy as np
 # import numpy as np (have to do 'pip install numpy' in the terminal)
 
 
@@ -10,7 +9,7 @@ def print_matrix(mat):
         print()
 
 
-def transpose():
+def transpose(mat):
     pass
 
 
@@ -22,13 +21,13 @@ def main():
         for c in range(5):
             row1.append(randint(-50, 99))
         mat1.append(row1)
-        mat2.append(row1)
 
     print("Matrix 1:")
     print_matrix(mat1)
 
     print("\nTransposed:")
-    print_matrix(mat1.transpose())
+    print_matrix(mat1)
+    transpose
 
 
 if __name__ == "__main__":
