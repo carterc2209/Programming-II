@@ -9,4 +9,6 @@ Console.WriteLine("Enter your age: ");
 // int age = convert.ToInt32(Console.ReadLine());
 int age = int.Parse(Console.ReadLine());
 // age = int(input)
-Console.WriteLine("You are: " + age + "years old");
+Console.WriteLine("You are: " + age + " years old");
+
+Console.ReadKey(); // or ReadLine();

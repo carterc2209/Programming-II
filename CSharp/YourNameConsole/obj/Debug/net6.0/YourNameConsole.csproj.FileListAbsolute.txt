@@ -1,0 +1,14 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\bin\Debug\net6.0\YourNameConsole.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\bin\Debug\net6.0\YourNameConsole.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\bin\Debug\net6.0\YourNameConsole.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\bin\Debug\net6.0\YourNameConsole.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\bin\Debug\net6.0\ref\YourNameConsole.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\bin\Debug\net6.0\YourNameConsole.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\obj\Debug\net6.0\YourNameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\obj\Debug\net6.0\YourNameConsole.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\obj\Debug\net6.0\YourNameConsole.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\obj\Debug\net6.0\YourNameConsole.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\obj\Debug\net6.0\YourNameConsole.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\obj\Debug\net6.0\ref\YourNameConsole.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\obj\Debug\net6.0\YourNameConsole.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\YourNameConsole\obj\Debug\net6.0\YourNameConsole.genruntimeconfig.cache

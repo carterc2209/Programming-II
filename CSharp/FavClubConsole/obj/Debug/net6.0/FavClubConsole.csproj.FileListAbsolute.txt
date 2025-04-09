@@ -1,0 +1,15 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\bin\Debug\net6.0\FavClubConsole.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\bin\Debug\net6.0\FavClubConsole.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\bin\Debug\net6.0\FavClubConsole.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\bin\Debug\net6.0\FavClubConsole.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\bin\Debug\net6.0\ref\FavClubConsole.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\bin\Debug\net6.0\FavClubConsole.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\FavClubConsole.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\FavClubConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\FavClubConsole.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\FavClubConsole.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\FavClubConsole.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\FavClubConsole.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\ref\FavClubConsole.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\FavClubConsole.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\FavClubConsole\obj\Debug\net6.0\FavClubConsole.genruntimeconfig.cache
