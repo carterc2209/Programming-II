@@ -1,0 +1,14 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\bin\Debug\net6.0\Prog54B.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\bin\Debug\net6.0\Prog54B.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\bin\Debug\net6.0\Prog54B.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\bin\Debug\net6.0\Prog54B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\bin\Debug\net6.0\ref\Prog54B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\bin\Debug\net6.0\Prog54B.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\obj\Debug\net6.0\Prog54B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\obj\Debug\net6.0\Prog54B.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\obj\Debug\net6.0\Prog54B.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\obj\Debug\net6.0\Prog54B.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\obj\Debug\net6.0\Prog54B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\obj\Debug\net6.0\ref\Prog54B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\obj\Debug\net6.0\Prog54B.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B\obj\Debug\net6.0\Prog54B.genruntimeconfig.cache

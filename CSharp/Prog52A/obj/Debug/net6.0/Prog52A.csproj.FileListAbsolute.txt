@@ -1,0 +1,15 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\Prog52A.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\Prog52A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\Prog52A.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\Prog52A.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\Prog52A.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\bin\Debug\net6.0\Prog52A.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\bin\Debug\net6.0\Prog52A.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\bin\Debug\net6.0\Prog52A.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\bin\Debug\net6.0\Prog52A.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\bin\Debug\net6.0\ref\Prog52A.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\bin\Debug\net6.0\Prog52A.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\Prog52A.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\ref\Prog52A.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\Prog52A.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog52A\obj\Debug\net6.0\Prog52A.genruntimeconfig.cache

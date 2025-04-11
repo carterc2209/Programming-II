@@ -20,7 +20,27 @@
       "ProjectGuid": "9db2a031-c4b0-46f0-96b8-10e5891ae4e5",
       "DisplayName": "YourNameConsole",
       "ColorIndex": 3
+    },
+    "e18981bf-874f-4dfb-a2f2-3a41a07c2a03": {
+      "ProjectGuid": "e18981bf-874f-4dfb-a2f2-3a41a07c2a03",
+      "DisplayName": "Prog52A",
+      "ColorIndex": 4
+    },
+    "b4b2c87b-6a61-4032-84e5-c1ee6c94eb34": {
+      "ProjectGuid": "b4b2c87b-6a61-4032-84e5-c1ee6c94eb34",
+      "DisplayName": "Prog54B",
+      "ColorIndex": 5
+    },
+    "cfe1eebc-6044-48f5-af51-76cffa895650": {
+      "ProjectGuid": "cfe1eebc-6044-48f5-af51-76cffa895650",
+      "DisplayName": "Prog54C",
+      "ColorIndex": 6
+    },
+    "4e52e523-546e-48ca-9fda-fcae700c1733": {
+      "ProjectGuid": "4e52e523-546e-48ca-9fda-fcae700c1733",
+      "DisplayName": "Prog54D",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 8
 }
