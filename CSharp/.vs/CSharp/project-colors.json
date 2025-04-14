@@ -40,7 +40,17 @@
       "ProjectGuid": "4e52e523-546e-48ca-9fda-fcae700c1733",
       "DisplayName": "Prog54D",
       "ColorIndex": 7
+    },
+    "4fa26c65-0cdc-406c-914e-85b51380c0a7": {
+      "ProjectGuid": "4fa26c65-0cdc-406c-914e-85b51380c0a7",
+      "DisplayName": "Prog54A",
+      "ColorIndex": 8
+    },
+    "8477b0b5-b757-4ab3-9851-c0e9a82ee7ac": {
+      "ProjectGuid": "8477b0b5-b757-4ab3-9851-c0e9a82ee7ac",
+      "DisplayName": "Prog54B CSHARP",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }

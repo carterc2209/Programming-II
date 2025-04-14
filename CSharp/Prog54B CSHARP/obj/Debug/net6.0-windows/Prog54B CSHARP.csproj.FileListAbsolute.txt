@@ -1,0 +1,17 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\bin\Debug\net6.0-windows\Prog54B CSHARP.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\bin\Debug\net6.0-windows\Prog54B CSHARP.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\bin\Debug\net6.0-windows\Prog54B CSHARP.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\bin\Debug\net6.0-windows\Prog54B CSHARP.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\bin\Debug\net6.0-windows\ref\Prog54B CSHARP.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\bin\Debug\net6.0-windows\Prog54B CSHARP.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B_CSHARP.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\ref\Prog54B CSHARP.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog54B CSHARP\obj\Debug\net6.0-windows\Prog54B CSHARP.genruntimeconfig.cache
