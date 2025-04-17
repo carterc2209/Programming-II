@@ -1,0 +1,17 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\bin\Debug\net6.0-windows\Prog85C.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\bin\Debug\net6.0-windows\Prog85C.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\bin\Debug\net6.0-windows\Prog85C.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\bin\Debug\net6.0-windows\Prog85C.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\bin\Debug\net6.0-windows\ref\Prog85C.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\bin\Debug\net6.0-windows\Prog85C.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\ref\Prog85C.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog85C\obj\Debug\net6.0-windows\Prog85C.genruntimeconfig.cache
