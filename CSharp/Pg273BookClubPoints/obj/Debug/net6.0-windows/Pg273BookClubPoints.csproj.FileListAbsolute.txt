@@ -1,0 +1,16 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\net6.0-windows\Pg273BookClubPoints.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\net6.0-windows\Pg273BookClubPoints.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\net6.0-windows\Pg273BookClubPoints.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\net6.0-windows\Pg273BookClubPoints.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\net6.0-windows\ref\Pg273BookClubPoints.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\net6.0-windows\Pg273BookClubPoints.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\ref\Pg273BookClubPoints.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\net6.0-windows\Pg273BookClubPoints.genruntimeconfig.cache

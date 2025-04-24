@@ -1,0 +1,17 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\bin\Debug\net6.0-windows\Pg266LargeSmall.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\bin\Debug\net6.0-windows\Pg266LargeSmall.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\bin\Debug\net6.0-windows\Pg266LargeSmall.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\bin\Debug\net6.0-windows\Pg266LargeSmall.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\bin\Debug\net6.0-windows\ref\Pg266LargeSmall.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\bin\Debug\net6.0-windows\Pg266LargeSmall.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.Properties.Resources.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\ref\Pg266LargeSmall.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg266LargeSmall\obj\Debug\net6.0-windows\Pg266LargeSmall.genruntimeconfig.cache

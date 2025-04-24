@@ -60,7 +60,42 @@
       "ProjectGuid": "61270494-6ff3-49e2-8a8a-56983366f16a",
       "DisplayName": "Prog85C",
       "ColorIndex": 11
+    },
+    "fbe72d56-7de7-4aa1-8c5e-f2368d1161ba": {
+      "ProjectGuid": "fbe72d56-7de7-4aa1-8c5e-f2368d1161ba",
+      "DisplayName": "LP4-5",
+      "ColorIndex": 12
+    },
+    "934ffe95-dd1b-4c72-a02f-bc6db2bbb217": {
+      "ProjectGuid": "934ffe95-dd1b-4c72-a02f-bc6db2bbb217",
+      "DisplayName": "LP4-1",
+      "ColorIndex": 13
+    },
+    "92a437cd-162e-4b82-b4be-86976fa4e3ab": {
+      "ProjectGuid": "92a437cd-162e-4b82-b4be-86976fa4e3ab",
+      "DisplayName": "Prog88A C",
+      "ColorIndex": 14
+    },
+    "3801c9e2-32d4-4784-a314-a6b39919812c": {
+      "ProjectGuid": "3801c9e2-32d4-4784-a314-a6b39919812c",
+      "DisplayName": "LP4-2",
+      "ColorIndex": 15
+    },
+    "5d7282ed-4f0b-4d10-ab40-36d51947e6ec": {
+      "ProjectGuid": "5d7282ed-4f0b-4d10-ab40-36d51947e6ec",
+      "DisplayName": "Pg266LargeSmall",
+      "ColorIndex": 0
+    },
+    "52b60327-1bff-47dd-a3d6-0f35c7e5ee42": {
+      "ProjectGuid": "52b60327-1bff-47dd-a3d6-0f35c7e5ee42",
+      "DisplayName": "Pg273BookClubPoints",
+      "ColorIndex": 1
+    },
+    "cc981ea9-d746-4771-bba6-a8ef0b44e5be": {
+      "ProjectGuid": "cc981ea9-d746-4771-bba6-a8ef0b44e5be",
+      "DisplayName": "Pg273MassAndWeight",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 3
 }

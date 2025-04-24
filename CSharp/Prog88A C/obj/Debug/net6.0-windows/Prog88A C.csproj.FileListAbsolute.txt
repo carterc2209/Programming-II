@@ -1,0 +1,17 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\bin\Debug\net6.0-windows\Prog88A C.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\bin\Debug\net6.0-windows\Prog88A C.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\bin\Debug\net6.0-windows\Prog88A C.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\bin\Debug\net6.0-windows\Prog88A C.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\bin\Debug\net6.0-windows\ref\Prog88A C.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\bin\Debug\net6.0-windows\Prog88A C.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A_C.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\ref\Prog88A C.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog88A C\obj\Debug\net6.0-windows\Prog88A C.genruntimeconfig.cache

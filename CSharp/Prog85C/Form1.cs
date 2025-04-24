@@ -73,8 +73,9 @@ namespace Prog85C
             }
             int day = int.Parse(textBox1.Text);
             int num = (((((month * 5) + 6) * 4) + 9) * 5) + day;
-            int birthdate = (num - 165) / 100;
+            double birthdate = (num - 165) / 100;
             label3.Text = num.ToString() + "\n" + birthdate.ToString() + "/" + day;
+
  
         }
     }
