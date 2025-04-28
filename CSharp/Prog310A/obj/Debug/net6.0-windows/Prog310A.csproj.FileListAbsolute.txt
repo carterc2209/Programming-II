@@ -1,0 +1,16 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\bin\Debug\net6.0-windows\Prog310A.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\bin\Debug\net6.0-windows\Prog310A.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\bin\Debug\net6.0-windows\Prog310A.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\bin\Debug\net6.0-windows\Prog310A.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\bin\Debug\net6.0-windows\ref\Prog310A.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\bin\Debug\net6.0-windows\Prog310A.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\ref\Prog310A.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog310A\obj\Debug\net6.0-windows\Prog310A.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\bin\Debug\net6.0-windows\Pg535CatchMe.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\bin\Debug\net6.0-windows\Pg535CatchMe.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\bin\Debug\net6.0-windows\Pg535CatchMe.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\bin\Debug\net6.0-windows\Pg535CatchMe.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\bin\Debug\net6.0-windows\ref\Pg535CatchMe.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\bin\Debug\net6.0-windows\Pg535CatchMe.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\ref\Pg535CatchMe.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg535CatchMe\obj\Debug\net6.0-windows\Pg535CatchMe.genruntimeconfig.cache

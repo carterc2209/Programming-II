@@ -22,5 +22,11 @@ namespace Pg273MassAndWeight
             label2.Text = weight.ToString() + "\n" + word;
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label2.Text = "";
+            textBox1.Text = "";
+        }
     }
 }
