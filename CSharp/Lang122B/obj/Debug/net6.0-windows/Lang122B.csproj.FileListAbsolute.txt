@@ -1,0 +1,17 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\bin\Debug\net6.0-windows\Lang122B.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\bin\Debug\net6.0-windows\Lang122B.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\bin\Debug\net6.0-windows\Lang122B.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\bin\Debug\net6.0-windows\Lang122B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\bin\Debug\net6.0-windows\ref\Lang122B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\bin\Debug\net6.0-windows\Lang122B.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\ref\Lang122B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Lang122B\obj\Debug\net6.0-windows\Lang122B.genruntimeconfig.cache

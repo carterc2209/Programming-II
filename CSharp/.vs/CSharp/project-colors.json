@@ -110,7 +110,12 @@
       "ProjectGuid": "4fd2ad47-f663-4ac6-ba50-29cc3e0fcd15",
       "DisplayName": "Prog310A",
       "ColorIndex": 5
+    },
+    "47345d3e-a871-4ae7-93ae-e9595ba32e3a": {
+      "ProjectGuid": "47345d3e-a871-4ae7-93ae-e9595ba32e3a",
+      "DisplayName": "Lang122B",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
