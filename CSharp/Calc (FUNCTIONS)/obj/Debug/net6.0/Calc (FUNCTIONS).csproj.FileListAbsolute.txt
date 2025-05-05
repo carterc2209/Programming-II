@@ -1,0 +1,15 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\bin\Debug\net6.0\Calc (FUNCTIONS).exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\bin\Debug\net6.0\Calc (FUNCTIONS).deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\bin\Debug\net6.0\Calc (FUNCTIONS).runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\bin\Debug\net6.0\Calc (FUNCTIONS).dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\bin\Debug\net6.0\ref\Calc (FUNCTIONS).dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\bin\Debug\net6.0\Calc (FUNCTIONS).pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\Calc (FUNCTIONS).csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\Calc (FUNCTIONS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\Calc (FUNCTIONS).AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\Calc (FUNCTIONS).AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\Calc (FUNCTIONS).csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\Calc (FUNCTIONS).dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\ref\Calc (FUNCTIONS).dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\Calc (FUNCTIONS).pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Calc (FUNCTIONS)\obj\Debug\net6.0\Calc (FUNCTIONS).genruntimeconfig.cache
