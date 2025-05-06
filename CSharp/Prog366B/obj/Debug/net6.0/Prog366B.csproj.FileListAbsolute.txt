@@ -1,0 +1,14 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\bin\Debug\net6.0\Prog366B.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\bin\Debug\net6.0\Prog366B.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\bin\Debug\net6.0\Prog366B.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\bin\Debug\net6.0\Prog366B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\bin\Debug\net6.0\ref\Prog366B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\bin\Debug\net6.0\Prog366B.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\obj\Debug\net6.0\Prog366B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\obj\Debug\net6.0\Prog366B.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\obj\Debug\net6.0\Prog366B.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\obj\Debug\net6.0\Prog366B.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\obj\Debug\net6.0\Prog366B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\obj\Debug\net6.0\ref\Prog366B.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\obj\Debug\net6.0\Prog366B.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog366B\obj\Debug\net6.0\Prog366B.genruntimeconfig.cache
