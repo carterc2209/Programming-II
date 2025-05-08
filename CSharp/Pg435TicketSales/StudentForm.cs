@@ -24,5 +24,17 @@ namespace Pg435TicketSales
             this.myParent.Show();
             this.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int tickets =  int.Parse(textBox1.Text);
+            decimal cost = tickets * 6;
+            decimal tax = (decimal)cost * 0.06M;
+            decimal total = tax + cost;
+            label2.Text = "Ticket cost: " + cost.ToString();
+            label3.Text = "Tax cost: " + tax.ToString();
+            label4.Text = "Total: " + total.ToString();
+
+        }
     }
 }

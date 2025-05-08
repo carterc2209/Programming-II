@@ -1,0 +1,17 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\bin\Debug\net6.0-windows\Prog122D.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\bin\Debug\net6.0-windows\Prog122D.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\bin\Debug\net6.0-windows\Prog122D.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\bin\Debug\net6.0-windows\Prog122D.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\bin\Debug\net6.0-windows\ref\Prog122D.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\bin\Debug\net6.0-windows\Prog122D.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\ref\Prog122D.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Prog122D\obj\Debug\net6.0-windows\Prog122D.genruntimeconfig.cache
