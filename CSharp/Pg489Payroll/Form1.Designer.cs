@@ -35,11 +35,12 @@
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 15;
+            this.listBox1.ItemHeight = 40;
             this.listBox1.Location = new System.Drawing.Point(21, 12);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(767, 289);
+            this.listBox1.Size = new System.Drawing.Size(767, 284);
             this.listBox1.TabIndex = 0;
             // 
             // button1

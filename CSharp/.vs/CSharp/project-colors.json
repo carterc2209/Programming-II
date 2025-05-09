@@ -135,7 +135,22 @@
       "ProjectGuid": "ca1d658b-08f4-4eb5-b5a6-ea05370fa71b",
       "DisplayName": "Prog122D",
       "ColorIndex": 10
+    },
+    "c0bdd906-8f48-4e76-bce8-f4ea283c49de": {
+      "ProjectGuid": "c0bdd906-8f48-4e76-bce8-f4ea283c49de",
+      "DisplayName": "Pg489Payroll",
+      "ColorIndex": 11
+    },
+    "c2edc90b-4570-4a73-a032-765fd3631241": {
+      "ProjectGuid": "c2edc90b-4570-4a73-a032-765fd3631241",
+      "DisplayName": "Pg347Sum",
+      "ColorIndex": 12
+    },
+    "d23f9d8b-29e8-4ce3-9dac-a1c527c3ec16": {
+      "ProjectGuid": "d23f9d8b-29e8-4ce3-9dac-a1c527c3ec16",
+      "DisplayName": "Pg334LoanCalculator",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 14
 }

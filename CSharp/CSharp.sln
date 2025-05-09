@@ -57,9 +57,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog366B", "Prog366B\Prog36
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog122D", "Prog122D\Prog122D.csproj", "{CA1D658B-08F4-4EB5-B5A6-EA05370FA71B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg347Sum", "Pg347Sum\Pg347Sum.csproj", "{C2EDC90B-4570-4A73-A032-765FD3631241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg347Sum", "Pg347Sum\Pg347Sum.csproj", "{C2EDC90B-4570-4A73-A032-765FD3631241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg489Payroll", "Pg489Payroll\Pg489Payroll.csproj", "{C0BDD906-8F48-4E76-BCE8-F4EA283C49DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg489Payroll", "Pg489Payroll\Pg489Payroll.csproj", "{C0BDD906-8F48-4E76-BCE8-F4EA283C49DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg334LoanCalculator", "Pg334LoanCalculator\Pg334LoanCalculator.csproj", "{D23F9D8B-29E8-4CE3-9DAC-A1C527C3EC16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{C0BDD906-8F48-4E76-BCE8-F4EA283C49DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0BDD906-8F48-4E76-BCE8-F4EA283C49DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0BDD906-8F48-4E76-BCE8-F4EA283C49DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23F9D8B-29E8-4CE3-9DAC-A1C527C3EC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23F9D8B-29E8-4CE3-9DAC-A1C527C3EC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23F9D8B-29E8-4CE3-9DAC-A1C527C3EC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23F9D8B-29E8-4CE3-9DAC-A1C527C3EC16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
