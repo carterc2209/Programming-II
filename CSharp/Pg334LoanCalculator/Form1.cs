@@ -26,6 +26,20 @@ namespace Pg334LoanCalculator
             double payment = 0.0;
             double interest = 0.0;
             double principal = 0.0;
+
+            try
+            {
+                months = int.Parse(textBox3.Text);
+                loans = double.Parse(textBox1.Text) - double.Parse(textBox2.Text);
+            } catch (Exception ex)
+            {
+                MessageBox.Show("Please enter a numeric value");
+                return;
+            }
+
+            payment = Financial.Pmt(annual / year, months, -loans);
+
+            listBox1.Items.Clear();
         }
     }
 }

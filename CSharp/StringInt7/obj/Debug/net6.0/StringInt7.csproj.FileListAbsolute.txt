@@ -1,0 +1,15 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\bin\Debug\net6.0\StringInt7.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\bin\Debug\net6.0\StringInt7.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\bin\Debug\net6.0\StringInt7.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\bin\Debug\net6.0\StringInt7.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\bin\Debug\net6.0\ref\StringInt7.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\bin\Debug\net6.0\StringInt7.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\StringInt7.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\StringInt7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\StringInt7.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\StringInt7.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\StringInt7.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\StringInt7.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\ref\StringInt7.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\StringInt7.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StringInt7\obj\Debug\net6.0\StringInt7.genruntimeconfig.cache
