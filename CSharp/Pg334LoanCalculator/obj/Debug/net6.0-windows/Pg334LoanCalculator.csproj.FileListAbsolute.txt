@@ -1,0 +1,17 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.csproj.AssemblyReference.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.Form1.resources
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.csproj.GenerateResource.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\bin\Debug\net6.0-windows\Pg334LoanCalculator.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\bin\Debug\net6.0-windows\Pg334LoanCalculator.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\bin\Debug\net6.0-windows\Pg334LoanCalculator.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\bin\Debug\net6.0-windows\Pg334LoanCalculator.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\bin\Debug\net6.0-windows\ref\Pg334LoanCalculator.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\bin\Debug\net6.0-windows\Pg334LoanCalculator.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\ref\Pg334LoanCalculator.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\Pg334LoanCalculator\obj\Debug\net6.0-windows\Pg334LoanCalculator.genruntimeconfig.cache

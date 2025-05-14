@@ -1,0 +1,14 @@
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\bin\Debug\net6.0\StrInt18.exe
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\bin\Debug\net6.0\StrInt18.deps.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\bin\Debug\net6.0\StrInt18.runtimeconfig.json
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\bin\Debug\net6.0\StrInt18.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\bin\Debug\net6.0\ref\StrInt18.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\bin\Debug\net6.0\StrInt18.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.AssemblyInfoInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.AssemblyInfo.cs
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.csproj.CoreCompileInputs.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\ref\StrInt18.dll
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.pdb
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.genruntimeconfig.cache

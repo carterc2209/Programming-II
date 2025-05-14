@@ -160,7 +160,12 @@
       "ProjectGuid": "16072202-10ab-408c-84b0-1650dff0bfe1",
       "DisplayName": "StringInt16",
       "ColorIndex": 15
+    },
+    "eb4f2326-21ac-4c82-a529-034fa0b7366c": {
+      "ProjectGuid": "eb4f2326-21ac-4c82-a529-034fa0b7366c",
+      "DisplayName": "ListDemo",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }
