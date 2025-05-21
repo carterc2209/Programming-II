@@ -69,7 +69,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInt16", "StringInt16\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListDemo", "ListDemo\ListDemo.csproj", "{EB4F2326-21AC-4C82-A529-034FA0B7366C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInt18", "StrInt18\StrInt18.csproj", "{C274F6C6-9C50-495C-9A99-ECD40E5F512D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrInt18", "StrInt18\StrInt18.csproj", "{C274F6C6-9C50-495C-9A99-ECD40E5F512D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScotPlotPractice", "ScotPlotPractice\ScotPlotPractice.csproj", "{5C9DB616-30C6-46F5-BCFE-90A1B970638B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{C274F6C6-9C50-495C-9A99-ECD40E5F512D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C274F6C6-9C50-495C-9A99-ECD40E5F512D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C274F6C6-9C50-495C-9A99-ECD40E5F512D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9DB616-30C6-46F5-BCFE-90A1B970638B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9DB616-30C6-46F5-BCFE-90A1B970638B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9DB616-30C6-46F5-BCFE-90A1B970638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9DB616-30C6-46F5-BCFE-90A1B970638B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

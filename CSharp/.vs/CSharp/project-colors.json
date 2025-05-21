@@ -165,7 +165,22 @@
       "ProjectGuid": "eb4f2326-21ac-4c82-a529-034fa0b7366c",
       "DisplayName": "ListDemo",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c274f6c6-9c50-495c-9a99-ecd40e5f512d": {
+      "ProjectGuid": "c274f6c6-9c50-495c-9a99-ecd40e5f512d",
+      "DisplayName": "StrInt18",
+      "ColorIndex": 1
+    },
+    "5c9db616-30c6-46f5-bcfe-90a1b970638b": {
+      "ProjectGuid": "5c9db616-30c6-46f5-bcfe-90a1b970638b",
+      "DisplayName": "ScotPlotPractice",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

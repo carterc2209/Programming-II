@@ -12,3 +12,4 @@ C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrI
 C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\ref\StrInt18.dll
 C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.pdb
 C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.genruntimeconfig.cache
+C:\Users\campbell.c\Desktop\Programming-II\CSharp\StrInt18\obj\Debug\net6.0\StrInt18.csproj.AssemblyReference.cache

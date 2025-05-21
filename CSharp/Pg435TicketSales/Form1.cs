@@ -2,7 +2,7 @@ namespace Pg435TicketSales
 {
     public partial class Form1 : Form
     {
-        private Form myParent;
+        private Form myParent; 
         public Form1()
         {
             InitializeComponent();
